@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jwt-backend-tutorial", "jwt-backend-tutorial\jwt-backend-tutorial.csproj", "{D2D0250A-D497-4C1F-A157-80E9ECDBD1FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2D0250A-D497-4C1F-A157-80E9ECDBD1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D0250A-D497-4C1F-A157-80E9ECDBD1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D0250A-D497-4C1F-A157-80E9ECDBD1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D0250A-D497-4C1F-A157-80E9ECDBD1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC6FDD44-06A8-46ED-B037-8D0FB88782D7}
+	EndGlobalSection
+EndGlobal
